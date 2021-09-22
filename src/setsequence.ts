@@ -1,3 +1,3 @@
-export function setsequence(objArray: any[] ) {
-    
+export function setsequence(objArray: any[]) {
+    return 'success';
 }
