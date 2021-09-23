@@ -25,6 +25,9 @@
   },
   "author": "Shivam Sharma",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivamchapslee/set-sequence/issues"
+  },
   "devDependencies": {
     "prettier": "^2.4.1",
     "tslint": "^6.1.3",
